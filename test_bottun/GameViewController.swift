@@ -17,7 +17,7 @@ class GameViewController: UIViewController {
   
     @IBAction func button1(_ sender: Any) {
         label1.text = ""
-        label2.text = "hellow"
+        label2.text = "hellow1"
     }
     
     //ここ開けました
