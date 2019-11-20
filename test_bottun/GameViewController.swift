@@ -5,6 +5,7 @@
 //  Created by 東谷　歩夢 on 2019/11/13.
 //  Copyright © 2019 東谷　歩夢. All rights reserved.
 //
+//  collaborate with Tomoya Gibo
 
 import UIKit
 
