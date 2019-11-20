@@ -19,6 +19,7 @@ class GameViewController: UIViewController {
         label2.text = "hellow"
     }
     
+    
     @IBAction func button2(_ sender: Any) {
         label1.text = "hellow"
         label2.text = ""
