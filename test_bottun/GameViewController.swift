@@ -20,6 +20,7 @@ class GameViewController: UIViewController {
         label2.text = "hellow1"
     }
     
+    
     //ここ開けました
     //ここ開けました　part2
     @IBAction func button2(_ sender: Any) {
