@@ -5,6 +5,7 @@
 //  Created by 東谷　歩夢 on 2019/11/13.
 //  Copyright © 2019 東谷　歩夢. All rights reserved.
 //
+//  collaborate with Tomoya Gibo
 
 import UIKit
 
@@ -16,9 +17,12 @@ class GameViewController: UIViewController {
   
     @IBAction func button1(_ sender: Any) {
         label1.text = ""
-        label2.text = "hellow"
+        label2.text = "hellow1"
     }
     
+    //ここ開けました
+    
+    //ここ開けました　part2
     @IBAction func button2(_ sender: Any) {
         label1.text = "hellow"
         label2.text = ""
