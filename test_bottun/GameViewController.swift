@@ -21,7 +21,6 @@ class GameViewController: UIViewController {
     }
     
     //ここ開けました
-    
     //ここ開けました　part2
     @IBAction func button2(_ sender: Any) {
         label1.text = "hello, world2"
