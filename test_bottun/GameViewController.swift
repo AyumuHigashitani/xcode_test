@@ -20,11 +20,6 @@ class GameViewController: UIViewController {
         label2.text = "hellow1"
     }
     
-    
-    //ここ開けました
-    //ここ開けました　part2
-    //ここ開けました　part3
-    //ここ開けました　part4
     @IBAction func button2(_ sender: Any) {
         label1.text = "hello, world2"
         label2.text = ""
