@@ -11,6 +11,7 @@ import UIKit
 
 class GameViewController: UIViewController {
     
+    
     @IBOutlet weak var label2: UILabel!
     @IBOutlet weak var label1: UILabel!    
   
