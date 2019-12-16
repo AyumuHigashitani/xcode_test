@@ -13,6 +13,7 @@ class GameViewController: UIViewController {
     
     @IBOutlet weak var label2: UILabel!
     @IBOutlet weak var label1: UILabel!
+    //次ここ開けました
     
   
     @IBAction func button1(_ sender: Any) {
