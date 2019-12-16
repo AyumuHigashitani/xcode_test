@@ -12,9 +12,7 @@ import UIKit
 class GameViewController: UIViewController {
     
     @IBOutlet weak var label2: UILabel!
-    @IBOutlet weak var label1: UILabel!
-    //次ここ開けました
-    
+    @IBOutlet weak var label1: UILabel!    
   
     @IBAction func button1(_ sender: Any) {
         label1.text = ""
