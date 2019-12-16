@@ -21,9 +21,6 @@ class GameViewController: UIViewController {
         label2.text = "hellow1"
     }
     
-    
-    //ここ開けました
-    //ここ開けました　part2
     @IBAction func button2(_ sender: Any) {
         label1.text = "hello, world2"
         label2.text = ""
@@ -55,3 +52,4 @@ class GameViewController: UIViewController {
        }
 */
 }
+//Done
